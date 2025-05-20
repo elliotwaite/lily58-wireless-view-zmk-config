@@ -1,0 +1,2 @@
+For example keymaps and config, see:
+https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/lily58
