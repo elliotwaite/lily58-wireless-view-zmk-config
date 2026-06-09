@@ -1,5 +1,15 @@
-To update config, push to GitHub, then check here:
-https://github.com/elliotwaite/lily58-wireless-view-zmk-config/actions
+1. Update the config files and push the changes to GitHub.
+2. Go to: https://github.com/elliotwaite/lily58-wireless-view-zmk-config/actions
+3. Click the latest workflow run (after it has finished running).
+4. Scroll down to the "Artifacts" section.
+5. Click the "firmware" link to download a firmware.zip file.
+6. Unzip the file.
+7. Double-tap the black button on the left part of the keyboard. This mounts the
+   keyboard as a drive named "NICENANO".
+8. Drag the unzipped files into the drive, or if only one side of the keyboard
+   was updated, only drag the file for that side. This will auto unmount the
+   drive and apply the updated config.
+
 
 For example keymaps and config, see:
 https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/lily58
