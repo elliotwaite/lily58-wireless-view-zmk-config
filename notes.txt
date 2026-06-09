@@ -1,2 +1,5 @@
+To update config, push to GitHub, then check here:
+https://github.com/elliotwaite/lily58-wireless-view-zmk-config/actions
+
 For example keymaps and config, see:
 https://github.com/zmkfirmware/zmk/tree/main/app/boards/shields/lily58
